@@ -15,3 +15,4 @@
 
 - Класс `Student` должен наследоваться от `Person`.
 - Файл: `Student.java` и `StudentDemo.java`.
+- 
