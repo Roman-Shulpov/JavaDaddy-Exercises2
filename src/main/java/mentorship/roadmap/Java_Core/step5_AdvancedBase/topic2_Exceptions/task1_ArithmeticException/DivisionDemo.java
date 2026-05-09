@@ -8,7 +8,7 @@ public class DivisionDemo {
             int c = a / b;
             System.out.println(c);
         } catch(ArithmeticException e){
-            System.out.println("division by zero is impossible!");
+            System.out.println("Делить на ноль нельзя!");
         }
     }
 }
